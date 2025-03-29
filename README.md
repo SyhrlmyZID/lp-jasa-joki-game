@@ -12,4 +12,4 @@ Template ini dirancang buat kamu yang butuh landing page dengan design warna jan
 - https://google.com
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
