@@ -9,7 +9,7 @@ Template ini dirancang buat kamu yang butuh landing page dengan design warna jan
 - Font Awesome, Aos, Google Fonts
   
 ## 👁️ Live Server
-- https://google.com
+- https://syhrlmyzid.github.io/lp-jasa-joki-game/
 
 ## Screenshot
 ![Screenshot](screenshot.PNG)
